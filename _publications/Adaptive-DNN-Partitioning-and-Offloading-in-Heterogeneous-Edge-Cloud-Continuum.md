@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Adaptive-DNN-Partitioning-and-Offloading-in-Heterogeneous-Edge-Cloud-Continuum
 excerpt: 'This paper presents an adaptive framework for dynamically partitioning DNN inference across heterogeneous edge, fog, and cloud devices. Evaluated on a physical testbed using VGG16, AlexNet, and MobileNetV2, the framework reduced energy consumption by 27.09–35.82% and end-to-end latency by 6.34–22.92% compared with static partitioning. The work was based on our masters thesis and was submitted and accepted in the 21st International Conference on Availability, Reliability and Security (ARES 2026) Workshop on Security, Availability, and Fault-Tolerance in Edge AI Systems, held August 24 – 27, 2026 in Linköping, Sweden.'
-#date: 2026-05-10
+date: 2026-05-10
 #venue: 'Journal 1'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://akuien.github.io/files/Adaptive DNN Partitioning and Offloading in Heterogeneous Edge-Cloud Continuum.pdf'
