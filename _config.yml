@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Deng%2C+A+A"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-6228-3340"
