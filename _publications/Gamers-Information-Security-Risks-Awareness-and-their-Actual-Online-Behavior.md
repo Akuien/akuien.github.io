@@ -11,7 +11,7 @@ paperurl: 'https://akuien.github.io/files/Gamers Information Security Risks Awar
 citation: 'A. A. Deng and E. Butkus, “Gamers’ information security risks awareness and their actual online behavior: An exploratory study of the relationship between gamers’ understanding of information security risks and their actual online behavior within gaming communities,” Dept. Comput. Syst. Sci., Stockholm Univ., Stockholm, Sweden, 2025.'
 ---
 
-During the societal shutdown due to Covid-19, the gaming industry emerged as the biggest
+Abstract - During the societal shutdown due to Covid-19, the gaming industry emerged as the biggest
 entertainment industry soaring in popularity among all age groups. Despite the growing popularity of
 online gaming, little research has examined how gamers perceive information security risks in these
 communities. This study explores the relationship between gamers’ awareness of information security

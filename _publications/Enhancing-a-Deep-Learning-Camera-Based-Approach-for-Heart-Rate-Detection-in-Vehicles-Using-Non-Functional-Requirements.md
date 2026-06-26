@@ -11,7 +11,7 @@ paperurl: "https://akuien.github.io/files/bachelor.pdf"
 citation: "A. Golubenko and A. A. Deng, “Enhancing a deep learning camera-based approach for heart rate detection in vehicles using non-functional requirements,” B.Sc. thesis, Dept. Comput. Sci. Eng., Univ. Gothenburg and Chalmers Univ. Technol., Gothenburg, Sweden, 2024."
 ---
 
-Abstract—Remote detection and monitoring of vital signs, such as heart rate, using remote photoplethysmography in a vehicle environment is a researched method to detect drivers’ sudden illnesses and improve road safety. Deep learning models have shown their efficiency in detecting heart rate in a ve-
+Abstract - Remote detection and monitoring of vital signs, such as heart rate, using remote photoplethysmography in a vehicle environment is a researched method to detect drivers’ sudden illnesses and improve road safety. Deep learning models have shown their efficiency in detecting heart rate in a ve-
 hicle environment. However, improving their performance and evaluating them becomes a challenge due to the complexity of such models. Moreover, using non-functional requirements to evaluate the quality of these models presents a challenge since there is limited understanding and research on how they can
 be applied to deep learning models. In this study, we explore how a state-of-the-art camera-based deep learning model can be
 enhanced by identifying relevant non-functional requirements, such as explainability, reliability, and robustness, based on the challenges posed by detecting heart rate in the vehicle environment. Experiment research method was chosen for this study to compare and evaluate pre-enhanced and enhanced versions
