@@ -6,7 +6,7 @@ permalink: /publication/bachelor-thesis
 excerpt: "This bachelor’s thesis investigates how non-functional requirements can be used to evaluate and enhance a deep learning model for contactless heart-rate detection in vehicles. Using the PhysNet convolutional neural network, the study focuses on explainability, robustness, and reliability, and evaluates the model through architecture analysis, feature-map visualization, hyperparameter tuning, cross-validation, and noise-intensive testing. The results highlight the importance of assessing machine-learning systems beyond accuracy and demonstrate the trade-offs between noise reduction, generalizability, and model performance."
 date: 2024-06-03
 #venue: 'Journal 1'
-#slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+slidesurl: 'https://akuien.github.io/files/bachelors-defence.pdf'
 paperurl: "https://akuien.github.io/files/bachelor.pdf"
 citation: "A. Golubenko and A. A. Deng, “Enhancing a deep learning camera-based approach for heart rate detection in vehicles using non-functional requirements,” B.Sc. thesis, Dept. Comput. Sci. Eng., Univ. Gothenburg and Chalmers Univ. Technol., Gothenburg, Sweden, 2024."
 ---
