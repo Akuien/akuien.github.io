@@ -23,7 +23,7 @@ repository               : "akuien/akuien.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Akuen Akoi Deng" # Update this with your name, this is the default if not overridden by a page
   pronouns         : # example: "she/her"  
   bio              : "MSc Student in Computer Science at Stockholm University"
